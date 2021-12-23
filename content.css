@@ -39,8 +39,10 @@ h3 {
 .name {
 	text-align: center;
 }
-.insta-schrift {
-	font-family: billabong;
+.insta-schrift,
+.mail-schrift {
+	font-family: Pristina;
+	font-weight: bold;
 }
 .insta-schrift,
 .mail-schrift {
